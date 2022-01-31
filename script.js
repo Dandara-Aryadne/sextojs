@@ -48,3 +48,9 @@ let cadastro =[{
     amigos: ["Dandara", "Alice", "Úrsula", "Beatriz", ]
 }
 ]
+// Mostre no console o nome de um amigo de cada lista.
+console.log(cadastro[2].amigos)
+console.log(cadastro[3].amigos)
+console.log(cadastro[0].amigos)
+console.log(cadastro[1].amigos)
+console.log(cadastro[3].amigos)
